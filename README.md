@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @connerdrake98
-- 👀 I’m interested in web3, Software Development, and AI/Machine Learning.
-- :white_check_mark: Proficient in C++, Familiar with Python and Javascript, Some C.
-- 🌱 I’m currently learning Solidity and Web Development!
+- 👀 I’m interested in web/software development
+- :white_check_mark: Proficient in C++, Familiar with Javascript/HTML/CSS and Python, Some C.
+- 🌱 I’m currently learning front-end development
 - :handshake: I’m looking to collaborate on projects :)
 - :chart_with_upwards_trend: I strive to be better every day.
 - 📫 email: connerdrake9@gmail.com - Let's connect!
