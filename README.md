@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @connerdrake98
-- 👀 I’m interested in web/software development
-- :white_check_mark: Proficient in C++, Familiar with Javascript/HTML/CSS and Python, Some C.
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested Front-End Web Development
+- :white_check_mark: Javascript/HTML/CSS, C++, Python, Some C.
 - :handshake: I’m looking to collaborate on projects :)
 - :chart_with_upwards_trend: I strive to be better every day.
 - 📫 email: connerdrake9@gmail.com - Let's connect!
