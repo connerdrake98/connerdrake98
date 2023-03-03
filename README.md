@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connerdrake98
-- :computer: I'm a Front-End Web Developer
+- :computer: I'm an aspiring web developer
 - :white_check_mark: Javascript/HTML/CSS, C++, Python, Some C and PineScript.
 - :handshake: I’m looking for employment opportunities
 - :chart_with_upwards_trend: I strive to be better every day.
