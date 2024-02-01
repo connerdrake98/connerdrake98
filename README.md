@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @connerdrake98
-- :computer: I'm an aspiring web developer
-- :white_check_mark: Javascript/HTML/CSS, C++, Python, Some C and PineScript.
-- :handshake: I’m looking for employment opportunities
+- :computer: I'm an aspiring data scientist
+- :white_check_mark: Python, Java, C, C++, Javascript/HTML/CSS
+- :handshake: I’m looking for internship opportunities
 - :chart_with_upwards_trend: I strive to be better every day.
 - 📫 email: connerdrake9@gmail.com - Let's connect!
 
