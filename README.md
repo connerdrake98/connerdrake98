@@ -6,4 +6,4 @@
 - :chart_with_upwards_trend: I strive to be better every day.
 - 📫 email: connerdrake9@gmail.com - Let's connect!
 
-(TODO link projects)
+(TODO link projects, resume, website/portfolio which I need to make)
