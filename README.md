@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @connerdrake98
-- :computer: I'm currently working as a Machine Learning Engineer Intern!
-- :white_check_mark: Pytorch, C, C++, Java, JavaScript, HTML/CSS
+- :computer: Currently working as a Machine Learning Intern!
+- 🧪 Absorbing, categorizing, and applying today's fresh ML research
+- :robot: Architecturally-curious and normalization-obsessed
+- 🔧 Optimizing for business objectives through process-component relevance-MaxPooling
+- :chart_with_upwards_trend: Automating process improvement to create self-accelerating strategic intelligence
+- :gear: Developing fractal-algorithmic philosophy
+- :white_check_mark: Python, Pytorch, C, C++, Java, JavaScript, HTML/CSS
 - 🏫: BYU - Computer Science, Machine Learning Emphasis
 - :handshake: Open to hearing about full-time ML roles (I graduate 04/2026)
-- :chart_with_upwards_trend: I strive to be better every day.
 - 📫 email: connerdrake9@gmail.com - Let's connect!
-
-(TODO link projects, resume, website/portfolio which I need to make)
