@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @connerdrake98
+Conner Drake
+@connerdrake98
+
+Informing, predicting, and automating with fresh, leading-edge, research-informed, results-driven machine learning solutions that align with stakeholder needs and support organizational goals.
+
 - :computer: Currently working as a Machine Learning Intern!
 - 🧪 Absorbing, categorizing, and applying today's fresh ML research
 - :robot: Architecturally-curious and normalization-obsessed -- developing multi-instance-foci ML ensemble approach
