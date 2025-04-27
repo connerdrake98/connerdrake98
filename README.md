@@ -11,5 +11,5 @@ Informing, predicting, and automating with fresh, leading-edge, research-informe
 - :gear: Developing fractal-algorithmic philosophy
 - :white_check_mark: Python, Pytorch, C, C++, Java, JavaScript, HTML/CSS
 - 🏫: BYU - Computer Science, Machine Learning Emphasis
-- :handshake: Open to hearing about full-time ML roles (I graduate 04/2026)
+- :handshake: Open to hearing about full-time ML roles (Graduating next year)
 - 📫 email: connerdrake9@gmail.com - Let's connect!
