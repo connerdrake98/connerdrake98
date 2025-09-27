@@ -2,7 +2,6 @@ Conner Drake
 @connerdrake98
 
 Machine Learning Engineer Intern and Student ML Researcher
-Builds research-informed applied ML systems and prototypes. Clear communicator with theoretical and applied ML knowledge and strong foundational software engineering skills.
 
 - :computer: Currently looking for a full-time ML / SWE role
 Languages: Python, C/C++, Java, SQL, JavaScript/TypeScript, HTML/CSS
