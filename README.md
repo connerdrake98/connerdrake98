@@ -3,7 +3,7 @@ Conner Drake
 
 Machine Learning Engineer Intern / Student ML Researcher
 
-- :computer: Currently looking for my next ML / Data / SWE role
+- :computer: Currently looking for my next ML / SWE / Data role
 - :keyboard: Languages: Python, C/C++, Java, SQL, JavaScript/TypeScript, HTML/CSS
 - :robot: AI / ML: PyTorch, ML research, Transformers, LLMs, RAG, NLP, computer vision, feature engineering, feature selection, Parquet, scikit-learn, OpenAI and Gemini APIs, loss function design, model testing and validation
 - :card_file_box: Data: Pandas, Numpy/Parallelization, ETL, EDA (matplotlib, Nomic Atlas, etc.), JSON, Selenium, Data Scraping/BeautifulSoup
