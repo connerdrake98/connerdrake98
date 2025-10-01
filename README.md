@@ -1,7 +1,7 @@
 Conner Drake
 @connerdrake98
 
-Machine Learning Engineer Intern and Student ML Researcher
+Machine Learning Engineer Intern / Student ML Researcher
 
 - :computer: Currently looking for my next ML / Data / SWE role
 - :keyboard: Languages: Python, C/C++, Java, SQL, JavaScript/TypeScript, HTML/CSS
