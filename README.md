@@ -2,7 +2,7 @@ Conner Drake
 @connerdrake98
 _____________________________________________
 - :computer: Currently looking for my next ML / SWE / Data role
-- past roles: Machine Learning Student Researcher, Software Engineer / Machine Learning Intern
+- Past Roles: Software Engineer / Machine Learning Intern, Machine Learning Student Researcher, 
 _____________________________________________
 - :keyboard: Languages: Python, C/C++, Java, SQL, JavaScript/TypeScript, HTML/CSS
 - :robot: AI / ML: PyTorch, ML research, Transformers, LLMs, RAG, NLP, computer vision, feature engineering, feature selection, Parquet, scikit-learn, OpenAI and Gemini APIs, loss function design, model testing and validation
